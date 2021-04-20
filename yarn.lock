@@ -161,8 +161,8 @@ http-server@^0.9.0:
     portfinder "0.4.x"
     union "~0.4.3"
 
-https-proxy-agent@^2.2.1:
-  version "2.2.1"
+https-proxy-agent@^2.2.3:
+  version "2.2.3"
   resolved "https://registry.yarnpkg.com/https-proxy-agent/-/https-proxy-agent-2.2.1.tgz#51552970fa04d723e04c56d04178c3f92592bbc0"
   dependencies:
     agent-base "^4.1.0"
